@@ -21,6 +21,13 @@ public class Main {
         System.out.println("Hello the sixth March");
         String text = "потоп";
         System.out.println(isPalindromRefactored(text));
-
+        int a = 5;
+        int b = 2;
+        int c = a + b; // 7
+        int d = a - b; // 3
+        int e = a * b; // 10
+        int f = a / b; // 2
+        int g = a % b; // 1
+        g = 14 % 3;    // 2
     }
 }
